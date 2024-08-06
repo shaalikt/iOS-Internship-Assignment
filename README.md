@@ -10,6 +10,7 @@ Product List View: Displays a list of products fetched from a remote API.
 Product Detail View: Shows detailed information about a selected product, including an image, title, description, and price.
 Placeholder Images: Utilizes placeholder images if product images are not available.
 Networking: Fetches data from an API using Alamofire for network requests.
+
 Installation Instructions
 
 Clone the Repository:
